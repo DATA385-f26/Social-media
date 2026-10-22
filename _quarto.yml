@@ -22,7 +22,7 @@ website:
         - text: "Anmol Virdi"
           href: avirdi.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:
