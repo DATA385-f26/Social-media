@@ -7,7 +7,7 @@ project:
 
 website:
   page-navigation: true
-  title: "TITLE"
+  title: "Social Media Behavior"
   description: "Project 01: Data Collection Facts Label"
 
   navbar: 
@@ -17,8 +17,8 @@ website:
         file: index.qmd
       - text: Dataset Details
         menu:
-        - text: "Person 1"
-          href: person1.qmd
+        - text: "Abraham Simon"
+          href: acsimon.qmd
         - text: "Person 2"
           href: person2.qmd
       - text: "Comparative Analysis"
