@@ -8,4 +8,4 @@ We decided to work with social media usage as a topic area due to how prevalent 
 
 ## Research Question
 
-How does social media affect the behavior of those who use it? What is the difference between someone who uses it frequently vs. rarely?
+How does social media affect those who frequently use it vs those who rarely use it?
