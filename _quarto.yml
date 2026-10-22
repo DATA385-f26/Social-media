@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Abraham Simon"
           href: acsimon.qmd
-        - text: "Person 2"
-          href: person2.qmd
+        - text: "Anmol Virdi"
+          href: avirdi.qmd
       - text: "Comparative Analysis"
         href: comparison.qmd
 
